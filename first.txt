@@ -1,3 +1,15 @@
 gitの練習をしていきます。
 git status
 git diff
+E325: ATTENTION
+Found a swap file by the name "~/Desktop/intro_git/.git/.COMMIT_EDITMSG.swp"
+          owned by: fujiwara   dated: 木  1 26 23:00:55 2023
+         file name: ~fujiwara/Desktop/intro_git/.git/COMMIT_EDITMSG
+          modified: YES
+         user name: fujiwara   host name: fmba2022.local
+        process ID: 17187
+While opening file "/Users/fujiwara/Desktop/intro_git/.git/COMMIT_EDITMSG"
+             dated: 木  1 26 23:35:09 2023
+      NEWER than swap file!
+
+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Z 
